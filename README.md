@@ -129,8 +129,10 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 
 ## OUTPUT
-![alt text](<Screenshot from 2024-04-24 11-34-56.png>)
-![alt text](<Screenshot from 2024-04-24 11-36-05.png>)
+![image](https://github.com/harissunique/Linux-IPC-Shared-memory/assets/147139338/3092ebcc-8706-462c-86a3-f21cdb628ede)
+
+![image](https://github.com/harissunique/Linux-IPC-Shared-memory/assets/147139338/da3fcd5a-0b57-40d1-8b79-69ef643c7fda)
+
 
 
 # RESULT:
