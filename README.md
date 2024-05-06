@@ -1,5 +1,5 @@
 # Linux-IPC-Shared-memory
-Ex06-Linux IPC-Shared-memory
+# Ex06-Linux IPC-Shared-memory
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
@@ -53,7 +53,8 @@ int main()
 ```
 
 ## OUTPUT
-![image](https://github.com/Gokhulraj2005/Linux-IPC-Shared-memory/assets/138849253/9f920f64-fe46-4345-977d-421eaffe84c3)
+![image](https://github.com/harissunique/Linux-IPC-Shared-memory/assets/147139338/a32f3dbd-a63e-4692-907b-3798883d269a)
+
 
 
 # RESULT:
