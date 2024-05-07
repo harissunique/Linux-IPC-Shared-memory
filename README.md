@@ -26,7 +26,7 @@ REG NO : 212223230073
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
-```
+```c
 //shm.c
 #include<unistd.h>
 #include<stdlib.h>
